@@ -6,3 +6,8 @@ How to build openssl for android on WSL
 2. Extract to this folder
 3. Set `ANDROID_NDK` variable to the extracted folder
 4. Set current directory to the extracted folder and run `../build-openssl.sh`
+
+
+https://stackoverflow.com/a/66760990
+
+https://dawnarc.com/2019/07/ue4android-ndkopenssl-linking-issues/
